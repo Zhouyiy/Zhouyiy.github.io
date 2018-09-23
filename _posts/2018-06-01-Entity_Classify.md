@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     page
 title:      Integrated Self-Updating Entity Classification Module
 subtitle:   Always know what you want!
 date:       2018-06-30
