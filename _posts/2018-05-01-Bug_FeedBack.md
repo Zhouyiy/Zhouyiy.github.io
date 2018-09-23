@@ -1,10 +1,10 @@
 ---
 layout:     post
-title:      Entity_Classify
-subtitle:   A tool for Classifying Ambiguous word
+title:      BugFeedback Based on Speech Communication
+subtitle:   It's sometimes useful to complain to a TV when it breaks
 date:       2018-05-01
-author:     YZY
-header-img: img/post-bg-BJJ.jpg
+author:     Zhouyi
+header-img: img/post-bg-entityclassify.jpg
 catalog: true
 tags:
     - Natrual Language Processing 
