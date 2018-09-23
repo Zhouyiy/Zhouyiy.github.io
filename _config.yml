@@ -100,7 +100,7 @@ service-worker: true
 friends: [
     {
         title: "CMU",
-        href: "www.cmu.edu"
+        href: "https://www.cmu.edu"
     },
     {
         title: "Apple",
