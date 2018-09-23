@@ -17,7 +17,7 @@ In search engine area, when a user inputs a query "Big Bang", what actually it i
 
 *The project is located [here](https://github.com/Zhouyiy/Entity_Classify), This is an individual project finished in [Moran](https://www.linkedin.com/company/moran-cognitive-technology-co.-ltd./)*
 
-##OverView
+## OverView
 This integrated module automatically provides the **newest** probability distribution of an entity which can be used in **user intension identify**, **real-time ambiguous entity classifying**, **Query-Answer system log analysis** and so forth. It automatically catches up with **newest** data collected from mainstream search engine, cleans data, extracts feature, trains probability model, calculate probability distribution and analyze result.
 
 To ensure a satisfying classification result, this module is designed to be highly **flexible**, users are able to customize quite a few parameters and pipeline features, from training parameters, training features to document representation parameters.
@@ -31,11 +31,11 @@ To ensure a satisfying classification result, this module is designed to be high
 > | ---- |:----:| ----:| ------:| --------:| --:|
 > | 32%  | 22%  |31%   |10%     |4%        |1%  |
 
-##Implementaion
+## Implementaion
 
-##Evaluation
+## Evaluation
 
-##Command
+## Command
 
 
 
