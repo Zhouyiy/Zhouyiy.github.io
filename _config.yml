@@ -99,8 +99,8 @@ service-worker: true
 # Friends
 friends: [
     {
-        title:"CMU",
-        href:"www.cmu.edu"
+        title: "CMU",
+        href: "www.cmu.edu"
     },
     {
         title: "Apple",
