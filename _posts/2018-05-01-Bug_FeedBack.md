@@ -2,12 +2,15 @@
 layout:     post
 title:      Entity_Classify
 subtitle:   A tool for Classifying Ambiguous word
-date:       2018-06-30
+date:       2018-05-01
 author:     YZY
 header-img: img/post-bg-BJJ.jpg
 catalog: true
 tags:
-    - BJJ
+    - Natrual Language Processing 
+    - Information Retrival
+    - Python
+    - Ambiguous Classify
 ---
 
 > 译自 [《THE BIGGEST LIE IN JIU JITSU》](http://www.jiujitsubrotherhood.com/the-biggest-lie-in-jiu-jitsu/)

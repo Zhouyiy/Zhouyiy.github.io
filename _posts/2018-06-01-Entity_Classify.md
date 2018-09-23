@@ -1,13 +1,14 @@
 ---
 layout:     post
-title:      Entity_Classify
-subtitle:   A tool for Classifying Ambiguous word
+title:      Bug_FeedBack
+subtitle:   Enable Users talking to TV directly about their problems
 date:       2018-06-30
 author:     YZY
 header-img: img/post-bg-BJJ.jpg
 catalog: true
 tags:
-    - BJJ
+    - NLP 
+    - BugFeedBack
 ---
 
 > 译自 [《THE BIGGEST LIE IN JIU JITSU》](http://www.jiujitsubrotherhood.com/the-biggest-lie-in-jiu-jitsu/)
