@@ -977,7 +977,7 @@ img::-moz-selection {
 .post-container img {
   display: block;
   max-width: 100%;
-  height: 50%;
+  height: 10%;
   margin: 1.5em auto 1.6em auto;
 }
 /* Hux Optimize UserExperience */
