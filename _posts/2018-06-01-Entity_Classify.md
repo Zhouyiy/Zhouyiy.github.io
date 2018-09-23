@@ -12,7 +12,7 @@ tags:
     - Machine Learning
     - Data Mining
 ---
-*The project is located [here](https://github.com/Zhouyiy/Entity_Classify), This is an individual project finished in [Moran](https://www.linkedin.com/company/moran-cognitive-technology-co.-ltd./) *
+*The project is located [here](https://github.com/Zhouyiy/Entity_Classify), This is an individual project finished in [Moran](https://www.linkedin.com/company/moran-cognitive-technology-co.-ltd./)*
 
 In search engine area, when a user inputs a query "Big Bang", what actually it is? Physical terminology? Or Sheldon's show? A general way is to calculate the probability distribution of "Big Bang" and return the results concerning with most likely intention. That is if 83% of "Big Bang" actually mean the TV show, then this search engine will find more information about show rather than physics.  However, this probability is **static**, the **primary** intention will change dramatically as time went by, an events like new cosmic physics theory is discovered will dramatically change that probability! The "Big Bang" may not be a TV series any more, what "Apple" is today is not what it is tomorrow. Thus, to **update** this probability distribution is crucial for providing an high precision and high recall searching results. 
 
