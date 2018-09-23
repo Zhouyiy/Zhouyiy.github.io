@@ -3,7 +3,7 @@ layout:     post
 title:      Integrated Self-Updating Entity Classification Module
 subtitle:   Always know what you want!
 date:       2018-06-30
-author:     YZY
+author:     Zhouyi
 header-img: img/post-bg-entityclassify.jpg
 catalog: true
 tags:
