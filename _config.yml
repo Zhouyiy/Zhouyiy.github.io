@@ -102,11 +102,17 @@ friends: [
         href: "https://www.cmu.edu"
     },
     {
-        title: "Apple",
-        href: "https://apple.com"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "ElasticSearch",
+        href: "https://www.elastic.co/"
+    },
+    {
+        title: "Lucene",
+        href: "http://lucene.apache.org/"
+    },
+   
+    {
+        title: "Hadoop",
+        href: "https://hadoop.apache.org/"
     }
 
 ]
