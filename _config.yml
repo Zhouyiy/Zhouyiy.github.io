@@ -1,5 +1,5 @@
 # Site settings
-title: Zhouyi's Blog
+title: Zhouyi Blog
 SEOTitle: 杨周奕的博客 | YZY Blog
 header-img: img/post-bg-desk.jpg
 email: zhouyiy@andrew.cmu.edu
@@ -101,7 +101,7 @@ friends: [
     {
         title:"CMU",
         href:"www.cmu.edu"
-    }
+    },
     {
         title: "Apple",
         href: "https://apple.com"
