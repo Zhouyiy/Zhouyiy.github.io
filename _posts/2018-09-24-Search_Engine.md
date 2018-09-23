@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Test-based large scale Search Engine 
-subtitle:   Smarter people get more
+subtitle:   Smarter people get more!
 date:       2018-09-24
 author:     Zhouyi
 header-img: img/post-bg-entityclassify.jpg
