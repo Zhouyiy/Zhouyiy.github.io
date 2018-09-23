@@ -4,7 +4,7 @@ title:      Integrated Self-Updating Entity Classification Module
 subtitle:   Always know what you want!
 date:       2018-06-30
 author:     YZY
-header-img: img/post-bg-desk.jpg
+header-img: img/post-bg-entityclassify.jpg
 catalog: true
 tags:
     - NLP 
