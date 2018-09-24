@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Test-based large scale Search Engine 
+title:      Text-based large scale Search Engine 
 subtitle:   Smarter people get more!
 date:       2018-09-24
 author:     Zhouyi
