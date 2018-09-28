@@ -14,13 +14,15 @@ tags:
 ---
 
 ## OverView
-	This is a search engine which helps people get information from a huge collection of documents. Users can simply type what they want and this machine returns several ranked related documents. Besides, a variety of advanced query operators are supported in this search engine like #NEAR, #WINDOW, #WSUM, #WOR and so on, this operators helps user specify their needs and get more satisfying documents.
-  *The project is located [here](https://github.com/Zhouyiy/Entity_Classify)*
+
+This is a search engine which helps people get information from a huge collection of documents. Users can simply type what they want and this machine returns several ranked related documents. Besides, a variety of advanced query operators are supported in this search engine like #NEAR, #WINDOW, #WSUM, #WOR and so on, this operators helps user specify their needs and get more satisfying documents.
+ 
+*The project is located [here](https://github.com/Zhouyiy/Entity_Classify)*
 
 ## Instruction
 
-	For general search, directly input query in to query.txt
-	For advanced search, firstly make up your structure query using operators below
+For general search, directly input query in to query.txt
+For advanced search, firstly make up your structure query using operators below
 
 > | Operators| Instruction|
 > | ---- |:----:|
@@ -35,7 +37,7 @@ tags:
 > | #WSUM | Attach each term of a weight, and return the best match documents|
 > | ---- |:----:|
 
-  Sample queries:
+Sample queries:
 > \#AND (apple, banana)
 
 > \#OR (#NEAR/2(hedge fund), protected)
@@ -43,5 +45,6 @@ tags:
 > \#WSUM ( 0.2 apple, 0.5 banana)
 
 ## Implementaion 
+
 	It is a based on Lucene, and adopts DAAT(Document At A Time) structure which means no need to load all of the inverted list to memory. It supports which support a variety of retrieval models like Ranked Boolean/ Unranked Boolean/ BM25/ Indris retrieve models.
 
