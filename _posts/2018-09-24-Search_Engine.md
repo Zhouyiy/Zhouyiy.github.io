@@ -27,7 +27,7 @@ For general search, directly input query in to query.txt
 For advanced search, firstly make up your structure query using operators below
 
 > | Operators| Instruction|
-> | ---- |:----:|
+> | ---- |----|
 > | #AND  | Intersection of documents related to each of terms in query  |
 > | ---- |:----:|
 > | #OR   | Union of documents related to each of terms in query|
