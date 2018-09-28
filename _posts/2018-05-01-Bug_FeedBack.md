@@ -7,11 +7,15 @@ author:     Zhouyi
 header-img: img/post-bg-entityclassify.jpg
 catalog: true
 tags:
-    - Natrual Language Processing 
-    - Information Retrival
-    - Python
-    - Ambiguous Classify
+    - Natrual Language Understanding
+    - C/C++
+    - Speech Recognition
+    - Elastic Search
 ---
 
-Sorry, it's still under construction.
-But I promise it will come soon!
+This is an individual project which allows Users to directly talk to TV about 
+problems they face.
+
+![piture](https://ws1.sinaimg.cn/large/006tNc79ly1fvpob4zabkj30cl0bc0ss.jpg)
+
+

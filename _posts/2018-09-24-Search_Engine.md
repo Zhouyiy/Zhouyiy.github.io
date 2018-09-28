@@ -40,7 +40,7 @@ For advanced search, firstly make up your structure query using operators below
 > | ---- |----|
 
 Sample queries:
-> \#AND (apple, banana) 
+> \#AND (apple, banana)
 > \#OR (#NEAR/2(hedge fund), protected)
 > \#WSUM ( 0.2 apple, 0.8 banana)
 
