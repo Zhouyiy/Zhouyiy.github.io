@@ -27,7 +27,7 @@ For general search, directly input query in to query.txt
 For advanced search, firstly make up your structure query using operators below
 
 > | Operators| Instruction|
-> | ---- |:----:|
+> | ---- |----|
 > | #AND  | Intersection of documents related to each of terms in query  |
 > | ---- |----|
 > | #OR   | Union of documents related to each of terms in query|
@@ -40,11 +40,9 @@ For advanced search, firstly make up your structure query using operators below
 > | ---- |----|
 
 Sample queries:
-> \#AND (apple, banana)
-
+> \#AND (apple, banana) 
 > \#OR (#NEAR/2(hedge fund), protected)
-
-> \#WSUM ( 0.2 apple, 0.5 banana)
+> \#WSUM ( 0.2 apple, 0.8 banana)
 
 ## Implementaion 
 
