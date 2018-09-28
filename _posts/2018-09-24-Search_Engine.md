@@ -27,17 +27,17 @@ For general search, directly input query in to query.txt
 For advanced search, firstly make up your structure query using operators below
 
 > | Operators| Instruction|
-> | ---- |----|
+> | ---- |:----:|
 > | #AND  | Intersection of documents related to each of terms in query  |
-> | ---- |:----:|
+> | ---- |----|
 > | #OR   | Union of documents related to each of terms in query|
-> | ---- |:----:|
+> | ---- |----|
 > | #NEAR/N| Documents in which query term B exists within N words after term A|
-> | ---- |:----:|
+> | ---- |----|
 > | #WINDOW/N| Documents in which term B exists within N words of term A|
-> | ---- |:----:|
+> | ---- |----|
 > | #WSUM | Attach each term of a weight, and return the best match documents|
-> | ---- |:----:|
+> | ---- |----|
 
 Sample queries:
 > \#AND (apple, banana)
