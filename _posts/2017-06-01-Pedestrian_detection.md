@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Integrated Self-Updating Entity Classification Module
+title:      Pedestrian Detection using KNN
 subtitle:   Always know what you want!
 date:       2017-06-30
 author:     Zhouyi
