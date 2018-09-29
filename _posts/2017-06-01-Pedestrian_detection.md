@@ -15,7 +15,7 @@ tags:
     - Data Mining
 ---
 
-*The detail of project can be found [here](https://github.com/Zhouyiy/Zhouyiy.github.io.git/file/detection.pdf)*
+*The detail of project can be found [here](https://github.com/Zhouyiy/Zhouyiy.github.io.git/file)*
 
 ## OverView
 
