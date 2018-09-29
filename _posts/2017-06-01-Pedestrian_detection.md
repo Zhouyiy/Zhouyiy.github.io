@@ -15,7 +15,7 @@ tags:
     - Data Mining
 ---
 
-*The detail of project can be found [here](https://drive.google.com/file/d/1sSB9o7huXMLYRbxe-324cBacVzDKN6Sp/view?usp=sharing)*
+*A Chinese version summary of project can be found [here](https://drive.google.com/file/d/1sSB9o7huXMLYRbxe-324cBacVzDKN6Sp/view?usp=sharing) English version is coming!*
 
 ## OverView
 
